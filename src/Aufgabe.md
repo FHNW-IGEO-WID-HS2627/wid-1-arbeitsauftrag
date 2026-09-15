@@ -12,11 +12,11 @@ Arbeite mit der App.js Datei. Zudem solltest du das "Vorschau"-Fenster offen hab
 ### Aufgabe 1: Einem Element Stile zuweisen
     
 1.1) Das generische Button-Element hat keinen zugeordneten Stil-Anweisungen und wird mit Standardwerten dargestellt. Lege eine neue Datei "style.css" im Ordner src an und importiere diese in App.js. Wähle einen passenden Selektor für den Button und weise die folgende Stile dem Button zu:
-- Der Button soll 30 Pixel hoch und 100 Pixel breit sein.
-- Er soll eine Umrandung haben, welche 1 Pixel breit ist und eine gestrichelte Linie in blauer Farbe hat.
-- Die Hintergrundfarbe soll weiss sein. 
-- Für die Schrift verwende den Schrifttyp "Arial", Fettschrift und eine beliebige Farbe (Hex-Code), welche du mit einem "Color Picker" aus dem Internet definierst.
-- Um die Schaltfläche des Buttons für Nutzer:innen als "klickbar" anzuzeigen, soll sich der Mauszeiger verändern, wenn er über dem Button ist. Finde die Eigenschaft mit der sich der Zeiger ändern lässt und wähle einen passenden Wert. Warum hast du dich für diesen entschieden? Verändert sich der Mauszeiger, wenn er über den Button bewegt wird?
+- Der Button soll 30 Pixel hoch und 100 Pixel breit sein. (-> height, width)
+- Er soll eine Umrandung haben, welche 1 Pixel breit ist und eine gestrichelte Linie in blauer Farbe hat. (-> border)
+- Die Hintergrundfarbe soll weiss sein. (-> background)
+- Für die Schrift verwende den Schrifttyp "Arial", Fettschrift und eine beliebige Farbe (Hex-Code), welche du mit einem "Color Picker" aus dem Internet definierst. (-> font)
+- Um die Schaltfläche des Buttons für Nutzer:innen als "klickbar" anzuzeigen, soll sich der Mauszeiger verändern, wenn er über dem Button ist. Finde die Eigenschaft mit der sich der Zeiger ändern lässt und wähle einen passenden Wert. Warum hast du dich für diesen entschieden? Verändert sich der Mauszeiger, wenn er über den Button bewegt wird? (-> cursor)
 
 1.2) Ändere den Text des Buttons, sodass dieser "Button 1" als Inhalt hat.
     
