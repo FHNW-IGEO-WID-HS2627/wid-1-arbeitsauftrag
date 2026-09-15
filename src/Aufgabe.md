@@ -2,7 +2,7 @@
 # Arbeitsauftrag WID 1
 
 ## Hinweise / Tipps:
-Arbeite mit der App.js Datei. Zudem solltest du das "Vorschau"-Fenster offen haben, um die Ausirkungen deine Änderungen nachvollziehen zu können. Falls das Vorschaufenster nicht angezeigt werden sollte, findest du in der Anleitung zur Sandbox (pdf in Moodle) die Schritte zur Wiederherstellung.
+Arbeite mit der App.js Datei. Zudem solltest du das "Vorschau"-Fenster offen haben, um die Auswirkungen deine Änderungen nachvollziehen zu können. 
 - HTML: https://developer.mozilla.org/de/docs/Web/HTML/Reference/Elements
 - CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 - Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
